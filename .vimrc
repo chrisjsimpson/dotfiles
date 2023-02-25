@@ -2,6 +2,7 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 set hlsearch
+set is " To enable highlight whilst searching
 
 call plug#begin()
 " The default plugin directory will be as follows:
