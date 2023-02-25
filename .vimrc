@@ -1,6 +1,7 @@
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set hlsearch
 
 call plug#begin()
 " The default plugin directory will be as follows:
