@@ -4,6 +4,9 @@ set expandtab
 set hlsearch
 set is " To enable highlight whilst searching
 
+filetype plugin on
+syntax on
+
 call plug#begin()
 " The default plugin directory will be as follows:
 "   - Vim (Linux/macOS): '~/.vim/plugged'
