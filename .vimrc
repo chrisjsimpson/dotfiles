@@ -3,6 +3,7 @@ set shiftwidth=2
 set expandtab
 set hlsearch
 set is " To enable highlight whilst searching
+set background=dark
 
 filetype plugin on
 syntax on
