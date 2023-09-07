@@ -1,3 +1,4 @@
+# Quickly cat the last written file
 alias catlast='cat $(ls -c1 | head -n1)'
 
 # Override the cd command & activate
